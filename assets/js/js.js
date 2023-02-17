@@ -140,7 +140,7 @@ function carElementsHTML() {
                 <p>${product.name}</p>
             </div>
             <div>
-                <p>Precio: ñ${product.price}</p>
+                <p>Precio: ${product.price}</p>
             </div>
             <div>
                 <p>Cantidad: ${product.quantity}</p>
